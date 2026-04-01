@@ -1,0 +1,5 @@
+{
+  "name": "VisionFlow: CPU Object Detection",
+  "description": "Real-time object detection pipeline running entirely on the CPU using TensorFlow.js and COCO-SSD, optimized for low-latency UI via Web Workers.",
+  "requestFramePermissions": ["camera"]
+}
